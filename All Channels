@@ -30,7 +30,7 @@ http://10.16.100.245/hindi/GaziTv_CMcl_TH.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Sports",PTV Sports
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DnFiP02.png" group-title="Sports",Ten Cricket
-http://tv.gadgetvaly.com:8880/live/bulbul/ASrlj2sBry/163
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports",Sky Cricket 1
 http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/146
 #EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Sports", Sony Ten 1 HD
