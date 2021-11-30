@@ -65,7 +65,7 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Bangla",Stv
 
-#EXTINF:0 tvg-id="ext" group-title="Bangla"R TV
+#EXTINF:0 tvg-id="ext" group-title="Bangla",R TV
 https://stream.cstfctg.com/rtvonline/rtv2021.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Bangla",Desh tv
 
@@ -86,7 +86,7 @@ http://suncable.serveftp.com/jalshamuvies-enc/video.m3u8
 #EXTINF:0 tvg-logo="https://mpng.subpng.com/20180623/qf/kisspng-jalsha-movies-star-jalsha-television-show-star-ind-5b2dddcfb0e485.0005089815297325597246.jpg" group-title="My Favourite",Jalsha Movies HD 2
 http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsezqDnAfyc8SCX_W9m0x-os/ts
 
-#EXTINF:0 tvg-id="ext" group-title="My Favourite",UNKNOWN
+#EXTINF:0 tvg-id="ext" group-title="My Favourite",JALSHA MOVIES HD 3
 http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/3412.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="My Favourite",DURONTO TV
