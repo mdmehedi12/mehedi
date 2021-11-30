@@ -118,3 +118,61 @@ https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="My Favourite",NICK BANGLA
 
+
+#EXTINF:0 tvg-id="ext" group-title="Bangla",NEWS 24
+http://10.16.100.245/hindi/news24_1st0p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangla",ATN BANGLA
+http://10.16.100.203:8082/bangla/ATN_bangla_local.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangla",MY TV
+http://10.16.100.207:8082/sports/mytv_1sT0p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangla",CHANNEL 9
+http://10.16.100.207:8082/sports/Channel9_1st0p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangla",BANGLA VISION
+http://10.16.100.203:8082/bangla/banglaviSion_local.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangla",MOHONA
+http://10.16.100.207:8082/sports/mohon@tv_1st0p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music",GAAN BANGLA
+http://10.16.100.203:8082/bangla/Ganbangla_riptv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangla",EKATTOR TV
+http://10.16.100.208:8082/hindi/ek@ttOrTV_1$tOp.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangla",CHANNEL 24
+http://10.16.100.245/hindi/channeL24_1st0p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangla",DEEPTOO TV
+http://10.16.100.203:8082/bangla/deeptoo_riptv_21.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangla",CHANNEL I
+http://10.16.100.203:8082/bangla/chenel_I.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangla",SA TV
+http://10.16.100.245/hindi/s@tv_1st0p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangla",ANANDA TV
+http://10.16.100.207:8082/sports/anand@tv_1stOp.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangla",NAGORIK TV
+http://10.16.100.245/hindi/n@g0riktv_1st0p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangla",JAMUNA NEWS
+http://10.16.100.203:8082/bangla/jamuna_riptv21.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangla",BIJOY
+http://10.16.100.203:8082/bangla/bIJoytV_riptv_21.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangla",ASIAN TV
+http://10.16.100.203:8082/bangla/tv_AsiaN.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangla",BTV WORLD
+http://10.16.100.208:8082/hindi/bTvwOrld_1stop.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangla",MAASRANGA
+http://10.16.100.207:8082/sports/maasr@nga_1StOp.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangla",SOMOY
+http://10.16.100.203:8082/bangla/somoy_riptv_21.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangla",BANGLA TV
+http://10.16.100.245/hindi/b@ngla_tv_1stop.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangla",EKUSHEY TV
+http://10.16.100.203:8082/bangla/ekushe_tv_local.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangla",DESH TV
+http://10.16.100.245/hindi/de$htv_1st0p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangla",RTV
+http://10.16.100.245/hindi/R_tv_1st0p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangla",ATN NEWS
+http://10.16.100.245/hindi/atNnews_1st0p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangla",BOISHAKHI TV
+http://10.16.100.203:8082/bangla/boishakhi.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangla",DBC NEWS
+http://10.16.100.203:8082/bangla/DbcNews_riptv_21.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangla",NTV
+http://10.16.100.245/hindi/ntv_1sT0p.m3u8
+
