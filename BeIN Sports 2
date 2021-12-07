@@ -1,91 +1,39 @@
 #EXTM3U
-#EXTINF:0 tvg-id="BeINSports.es" group-title="Channels",beIN SPORTS HD
+#EXTINF:0 tvg-id="BeINSports.es" group-title="BeIN Sports",beIN SPORTS HD
 http://mantech-tv.xyz:8888/mantechnology11/telegram/1
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports News HD
-http://mantech-tv.xyz:8888/mantechnology11/telegram/2
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS PREMIUM 1 HD
+#EXTINF:0 tvg-id="ext" group-title="BeIN Sports",beIN SPORTS PREMIUM 1 HD
 http://mantech-tv.xyz:8888/mantechnology11/telegram/3
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS PREMIUM 2 HD
+#EXTINF:0 tvg-id="ext" group-title="BeIN Sports",beIN SPORTS PREMIUM 2 HD
 http://mantech-tv.xyz:8888/mantechnology11/telegram/4
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS PREMIUM 3 HD
+#EXTINF:0 tvg-id="ext" group-title="BeIN Sports",beIN SPORTS PREMIUM 3 HD
 http://mantech-tv.xyz:8888/mantechnology11/telegram/5
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Channels",beIN SPORTS 1 HD
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="BeIN Sports",beIN SPORTS 1 HD
 http://mantech-tv.xyz:8888/mantechnology11/telegram/6
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Channels",beIN SPORTS 2 HD
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="BeIN Sports",beIN SPORTS 2 HD
 http://mantech-tv.xyz:8888/mantechnology11/telegram/7
-#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Channels",beIN SPORTS 3 HD
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="BeIN Sports",beIN SPORTS 3 HD
 http://mantech-tv.xyz:8888/mantechnology11/telegram/8
-#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Channels",beIN SPORTS 4 HD
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="BeIN Sports",beIN SPORTS 4 HD
 http://mantech-tv.xyz:8888/mantechnology11/telegram/9
-#EXTINF:0 tvg-id="bein5hd.jsc" group-title="Channels",beIN SPORTS 5 HD
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="BeIN Sports",beIN SPORTS 5 HD
 http://mantech-tv.xyz:8888/mantechnology11/telegram/10
-#EXTINF:0 tvg-id="bein6hd.jsc" group-title="Channels",beIN SPORTS 6 HD
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="BeIN Sports",beIN SPORTS 6 HD
 http://mantech-tv.xyz:8888/mantechnology11/telegram/11
-#EXTINF:0 tvg-id="bein7hd.jsc" group-title="Channels",beIN SPORTS 7 HD
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="BeIN Sports",beIN SPORTS 7 HD
 http://mantech-tv.xyz:8888/mantechnology11/telegram/12
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS XTRA 1 HD
+#EXTINF:0 tvg-id="ext" group-title="BeIN Sports",beIN SPORTS XTRA 1 HD
 http://mantech-tv.xyz:8888/mantechnology11/telegram/13
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS XTRA 2 HD
+#EXTINF:0 tvg-id="ext" group-title="BeIN Sports",beIN SPORTS XTRA 2 HD
 http://mantech-tv.xyz:8888/mantechnology11/telegram/14
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS PREMIUM 1 Full-HD
-http://mantech-tv.xyz:8888/mantechnology11/telegram/15
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS PREMIUM 2 Full-HD
-http://mantech-tv.xyz:8888/mantechnology11/telegram/16
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS PREMIUM 3 Full-HD
-http://mantech-tv.xyz:8888/mantechnology11/telegram/17
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Channels",beIN SPORTS 1 Full-HD
-http://mantech-tv.xyz:8888/mantechnology11/telegram/18
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Channels",beIN SPORTS 2 Full-HD
-http://mantech-tv.xyz:8888/mantechnology11/telegram/19
-#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Channels",beIN SPORTS 3 Full-HD
-http://mantech-tv.xyz:8888/mantechnology11/telegram/20
-#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Channels",beIN SPORTS 4 Full-HD
-http://mantech-tv.xyz:8888/mantechnology11/telegram/21
-#EXTINF:0 tvg-id="bein5hd.jsc" group-title="Channels",beIN SPORTS 5 Full-HD
-http://mantech-tv.xyz:8888/mantechnology11/telegram/22
-#EXTINF:0 tvg-id="bein6hd.jsc" group-title="Channels",beIN SPORTS 6 Full-HD
-http://mantech-tv.xyz:8888/mantechnology11/telegram/23
-#EXTINF:0 tvg-id="bein7hd.jsc" group-title="Channels",beIN SPORTS 7 Full-HD
-http://mantech-tv.xyz:8888/mantechnology11/telegram/24
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS FRENCH 1 HD
+#EXTINF:0 tvg-id="ext" group-title="BeIN Sports",beIN SPORTS FRENCH 1 HD
 http://mantech-tv.xyz:8888/mantechnology11/telegram/25
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS FRENCH 2 HD
+#EXTINF:0 tvg-id="ext" group-title="BeIN Sports",beIN SPORTS FRENCH 2 HD
 http://mantech-tv.xyz:8888/mantechnology11/telegram/26
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS FRENCH 3 HD
+#EXTINF:0 tvg-id="ext" group-title="BeIN Sports",beIN SPORTS FRENCH 3 HD
 http://mantech-tv.xyz:8888/mantechnology11/telegram/27
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS ENGLISH 1 HD
+#EXTINF:0 tvg-id="ext" group-title="BeIN Sports",beIN SPORTS ENGLISH 1 HD
 http://mantech-tv.xyz:8888/mantechnology11/telegram/28
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS ENGLISH 2 HD
+#EXTINF:0 tvg-id="ext" group-title="BeIN Sports",beIN SPORTS ENGLISH 2 HD
 http://mantech-tv.xyz:8888/mantechnology11/telegram/29
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS ENGLISH 3 HD
+#EXTINF:0 tvg-id="ext" group-title="BeIN Sports",beIN SPORTS ENGLISH 3 HD
 http://mantech-tv.xyz:8888/mantechnology11/telegram/30
-#EXTINF:0 tvg-id="ext" group-title="Channels",FR | RMC Sport 1 HD
-http://mantech-tv.xyz:8888/mantechnology11/telegram/31
-#EXTINF:0 tvg-id="ext" group-title="Channels",FR | RMC Sport 2 HD
-http://mantech-tv.xyz:8888/mantechnology11/telegram/32
-#EXTINF:0 tvg-id="ext" group-title="Channels",FR | RMC SPORT LIVE 5 HD
-http://mantech-tv.xyz:8888/mantechnology11/telegram/33
-#EXTINF:0 tvg-id="ext" group-title="Channels",FR | RMC SPORT LIVE  6 HD
-http://mantech-tv.xyz:8888/mantechnology11/telegram/34
-#EXTINF:0 tvg-id="ext" group-title="Channels",FR | RMC SPORT LIVE 7 HD
-http://mantech-tv.xyz:8888/mantechnology11/telegram/35
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | SSC 1 HD
-http://mantech-tv.xyz:8888/mantechnology11/telegram/43
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | SSC 2 HD
-http://mantech-tv.xyz:8888/mantechnology11/telegram/44
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | SSC 3 HD
-http://mantech-tv.xyz:8888/mantechnology11/telegram/45
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | SSC 4 HD
-http://mantech-tv.xyz:8888/mantechnology11/telegram/46
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | SSC 5 HD
-http://mantech-tv.xyz:8888/mantechnology11/telegram/47
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | SSC 6 HD
-http://mantech-tv.xyz:8888/mantechnology11/telegram/48
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | SSC 7 HD
-http://mantech-tv.xyz:8888/mantechnology11/telegram/49
-#EXTINF:0 tvg-id="ext" group-title="Channels",SP | Al Kass Sports 1 HD
-http://mantech-tv.xyz:8888/mantechnology11/telegram/50
-#EXTINF:0 tvg-id="ext" group-title="Channels",SP | Al Kass Sports 2 HD
-http://mantech-tv.xyz:8888/mantechnology11/telegram/51
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Al Kass Sports 3 HD
-http://mantech-tv.xyz:8888/mantechnology11/telegram/52
